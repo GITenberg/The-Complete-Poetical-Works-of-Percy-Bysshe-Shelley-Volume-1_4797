@@ -1,5 +1,5 @@
 _repo: The-Complete-Poetical-Works-of-Percy-Bysshe-Shelley-Volume-1_4797
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -35,5 +35,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PR'
 - !lcsh 'English poetry'
+- GITenberg
 title: The Complete Poetical Works of Percy Bysshe Shelley — Volume 1
 url: http://www.gutenberg.org/ebooks/4797
